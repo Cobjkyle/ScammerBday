@@ -148,7 +148,7 @@
     }
 
     .bdaycard:hover{
-      transform: translateY(37vh) scale(1.2);
+      transform: translateY(42vh) scale(1.2);
       transition: 5s;
     
     
@@ -161,7 +161,7 @@
     }
 
     .bdaycard:hover .letterpaper {
-      transform: translateY(-52vh);
+      transform: translateY(-56vh);
       height: 74vh      
     }
 
